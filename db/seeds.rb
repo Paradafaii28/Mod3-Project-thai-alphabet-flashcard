@@ -47,12 +47,12 @@ rorRuea = Card.create(image_url:"https://i.ibb.co/bbNwYMd/35.png", description:"
 lorLing = Card.create(image_url:"https://i.ibb.co/pLCFXZy/36.png", description:"Lor ling(a monkey)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%A5%20%E0%B8%A5%E0%B8%B4%E0%B8%87.mp3")
 worWaen = Card.create(image_url:"https://i.ibb.co/GWMfxnC/37.png", description:"wo waen(a ring)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%A7%20%E0%B9%81%E0%B8%AB%E0%B8%A7%E0%B8%99.mp3")
 sorSala = Card.create(image_url:"https://i.ibb.co/s51pDxn/38.png", description:"Sor sala(a pavilion)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%A8%20%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2.mp3")
-sorRueSri = Card.create(image_url:"https://i.ibb.co/KFpJH4K/39.png", description:"Sor rue sri(a holy man, a hermit)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%81%20%E0%B9%84%E0%B8%81%E0%B9%88.mp3")
+sorRueSri = Card.create(image_url:"https://i.ibb.co/KFpJH4K/39.png", description:"Sor rue sri(a holy man, a hermit)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%A9%20%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5.mp3")
 sorSuea= Card.create(image_url:"https://i.ibb.co/ScNf2Kz/40.png", description:"So suea(a tiger)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%AA%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD.mp3")
 horHeep = Card.create(image_url:"https://i.ibb.co/wCTwrF9/41.png", description:"Ho heep(a chest,a box)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%AB%20%E0%B8%AB%E0%B8%B5%E0%B8%9A.mp3")
 lorChuLa = Card.create(image_url:"https://i.ibb.co/PjTB82g/42.png", description:"Lor chu la(a kite)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%AC%20%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2.mp3")
 orAag = Card.create(image_url:"https://i.ibb.co/8zB8fB6/43.png", description:"Or aag(a bowl,a basin)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%AD%20%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%87.mp3")
-hawNokHuk = Card.create(image_url:"https://i.ibb.co/WH1ZwXN/44.png", description:"haw nok-huk (owl)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%81%20%E0%B9%84%E0%B8%81%E0%B9%88.mp3")
+hawNokHuk = Card.create(image_url:"https://i.ibb.co/WH1ZwXN/44.png", description:"haw nok-huk (owl)", radio_url:"http://thailanguagehut.com/fileadmin/audio/alphabet-mp3/%E0%B8%AE%20%E0%B8%99%E0%B8%81%E0%B8%AE%E0%B8%B9%E0%B8%81.mp3")
 
 
 
